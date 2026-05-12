@@ -5,4 +5,4 @@ logs/
 profiles.yml
 .user.yml
 package-lock.yml
-.env
+.env.dev
